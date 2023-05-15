@@ -1,6 +1,4 @@
 # MeloMind
-
-## Overview
 The MeloMind app aims to teach children to meditate after intellectual activity or experiencing complex emotions. This project was made to participate in the Swift Student Challenge.
 
 ## Description
